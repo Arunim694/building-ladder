@@ -6,4 +6,5 @@ for i in range(0,n):
 print("*   *")
 print("*   *")
 #ladder
-#yes
+#very good
+
